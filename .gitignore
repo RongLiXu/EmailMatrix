@@ -50,3 +50,4 @@ openspec
 待办
 /.playwright-cli
 .test_tmp/
+.reasonix
